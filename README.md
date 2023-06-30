@@ -9,7 +9,9 @@ Para executar este programa, certifique-se de ter o Go instalado em seu sistema.
 
 ## Começando
 1 - Clone o repositório ou faça o download do código-fonte.
+
 2 - Abra um terminal ou prompt de comando e navegue até o diretório do projeto.
+
 3 - Compile o programa usando o seguinte comando:
 
 ```
